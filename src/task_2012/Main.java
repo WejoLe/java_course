@@ -1,4 +1,4 @@
-package timus_2012;
+package task_2012;
 
 import java.io.PrintWriter;
 import java.util.Scanner;

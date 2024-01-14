@@ -1,21 +1,19 @@
-package task_1293;
+package task_1639;
 
 import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
         Scanner in = new Scanner(System.in);
         PrintWriter out = new PrintWriter(System.out);
 
-        int A = in.nextInt();
-        int B = in.nextInt();
-        int N = in.nextInt();
+        int m = in.nextInt();
+        int n = in.nextInt();
 
-        int result = (N * (A*B)) * 2;
+        int result = (n * m) % 2;
 
-        out.println(result);
+        out.println((result!=0)? ("[second]=:]") : ("[:=[first]"));
         out.flush();
     }
 }
