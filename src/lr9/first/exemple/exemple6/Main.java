@@ -1,7 +1,6 @@
-package lr9.six.exemple.exemple9;
+package lr9.first.exemple.exemple6;
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class Main {
     public static void main(String[] args) throws Exception{
