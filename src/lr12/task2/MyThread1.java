@@ -1,4 +1,4 @@
-package Semestr2.lab12.task2;
+package lr12.task2;
 
 public class MyThread1 {
     public static void main(String[] args) throws InterruptedException{

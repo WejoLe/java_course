@@ -1,4 +1,4 @@
-package Semestr2.lab12.task4;
+package lr12.task4;
 
 public class Threads10 {
     public static void main(String[] args) {

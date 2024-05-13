@@ -1,4 +1,4 @@
-package Semestr2.lab12.task1;
+package lr12.task1;
 
 import java.time.LocalTime;
 

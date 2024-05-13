@@ -1,4 +1,4 @@
-package Semestr2.lab12.task3;
+package lr12.task3;
 
 public class Threads {
     private static final Object lock = new Object();

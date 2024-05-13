@@ -1,4 +1,4 @@
-package Semestr2.lab12.task5;
+package lr12.task5;
 import java.util.Arrays;
 import java.util.Random;
 
